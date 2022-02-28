@@ -1,0 +1,112 @@
+/* footer */
+.lists{
+    display: flex;
+    flex-wrap: wrap;
+}
+.line2{
+    border-top: 3px solid rgb(158, 107, 147);
+    margin-bottom: -19px;
+    margin-top: 60px;
+}
+.footer-container{
+    width: 100%;
+    height: 20%;
+  
+}
+.footer-main{
+    width: 100%;
+    height: 20%;
+    background-color:black;
+    color: #d1bfdb;
+    
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.footer-main img{
+    width: 20%;
+    height: 150px;
+    margin-left: 85px;
+    padding: 3px;
+    margin-bottom: 25rem;
+    margin-top: 6rem;
+}
+.product-list a{
+    color: rgb(94, 41, 94);;
+    margin-right: 10rem;
+    padding: 30px;
+    text-decoration-line: none;
+    
+}
+.product-list2 a{
+    color: rgb(94, 41, 94);;
+    margin-right: 10rem;
+    padding: 30px;
+    text-decoration-line: none;
+
+}
+.list-heading{
+    margin-top: 3rem;
+    font-size: 30px;
+    font-weight: 100;
+    
+}
+.list-heading2{
+    margin-top: 3rem;
+    font-size: 30px;
+    font-weight: 100;
+}
+.list-heading a{
+    color: #d1bfdb;
+}
+.list-heading2 a{
+    color: #d1bfdb;
+}
+.list-category{
+   
+    margin: 17px;
+}
+.product-list a:hover{
+    color: #d1bfdb
+}
+.product-list2 a:hover{
+    color: #d1bfdb
+}
+.about-company h2{
+    color: #d1bfdb;
+    margin-top: -13rem;
+    position: absolute;
+    margin-left: 2rem;
+    font-size: 40px;
+}
+.about-company p{
+    color: rgb(94, 41, 94);
+    position: absolute;
+    margin-top: -10rem;
+    overflow: hidden;
+    margin-left: 2rem;
+    
+}
+.contacts-container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    border-top: 3px solid rgb(158, 107, 147);
+   
+}
+
+.contact-item img {
+    position: relative; 
+    width: 5rem;
+    height: 4rem;
+    padding: 10px;
+    margin-top: -20rem;
+    margin-bottom: 2rem;
+}
+
+.contact{
+    text-decoration: none;
+}
+
